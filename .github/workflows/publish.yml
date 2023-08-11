@@ -13,4 +13,4 @@ jobs:
     secrets:
       RAILS_BYTES_ACCOUNT_ID: "${{ secrets.RAILS_BYTES_ACCOUNT_ID }}"
       RAILS_BYTES_TOKEN: "${{ secrets.RAILS_BYTES_TOKEN }}"
-      RAILS_BYTES_TEMPLATE_ID: z5OsoB
+      RAILS_BYTES_TEMPLATE_ID: V4YsnQ
